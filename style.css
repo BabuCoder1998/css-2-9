@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-container {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #E8EEFF;
+    margin: 108px auto;
+}
+
+#header-container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto 64px auto;
+}
+
+h1 {
+    max-width: 864px;
+    width: 100%;
+    text-align: center;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.44px;
+    margin: 0 auto;
+}
+
+#analytics {
+    color: #05F;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.44px;
+}
+
+#smarter {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.44px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#header-container-para {
+    max-width: 768px;
+    width: 100%;
+    text-align: center;
+    margin-top: 24px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;  
+    margin: 24px auto 0 auto;
+}
+
+#top-container {
+    max-width: 1216px;
+    width: 100%;
+    height: 616px;
+    margin: 0 auto 64px auto;
+    overflow: hidden;
+    border-radius: 28px;
+    border: 2px solid #D5D7DA;
+}
+
+#dashboard {
+    width: 100%;
+    height: 800px;
+    border-radius: 28px;
+}
+
+#middle-container {
+    width: 100%;
+}
+
+#middle-container-chatbox {
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    width: 449.33px;
+    height: 210px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#chatbox-image {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;   
+    margin-bottom: 8px;
+}
+
+#middle-container-chatbox-para {
+    width: 100%;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;    
+}
+
+#middle-container-ligting {
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    width: 449.33px;
+    height: 210px;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 28px;
+}
+
+#ligting-image {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+
+
+#middle-container-ligting-para {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#middle-container-click {
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    width: 449.33px;
+    height: 210px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#click-image {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+#middle-container-click-para {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#footer-container {
+    margin: 64px auto 468.16px auto;
+    max-width: 1216px;
+    width: 100%;
+    height: 400px;
+    border-radius: 24px;
+    background: #53389E;
+    overflow: hidden;
+}
+
+#footer-container-content {
+    max-width: 736px;
+    width: 100%;
+    padding: 64px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 41.4px;
+}
+
+h3 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.72px;
+    margin-bottom: 20px;
+}
+
+#footer-container-para {
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+#Learn-more {
+    width: 128px;
+    height: 48px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #414651;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 12px;
+}
+
+#Get-started {
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    width: 129px;
+    height: 48px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#woman-image {
+    width: 476px;
+    height: 400px;
+    vertical-align: middle;
+    display: inline-block;
+}
